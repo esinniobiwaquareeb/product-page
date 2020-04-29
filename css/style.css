@@ -120,10 +120,10 @@ body {
   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%); }
   .header__logo-box {
     position: absolute;
-    top: 4rem;
-    left: 4rem; }
+    top: 2rem;
+    left: 2rem; }
   .header__logo {
-    height: 3.5rem; }
+    height: 2.5rem; }
   .header__text-box {
     position: absolute;
     top: 40%;
